@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="btn">
+    <file>D-Day icon/buttons/add.png</file>
+    <file>D-Day icon/buttons/eraser.png</file>
+    <file>D-Day icon/buttons/edit button2.png</file>
+    <file>D-Day icon/buttons/negative.png</file>
+    <file>D-Day icon/buttons/plus.png</file>
+    <file>D-Day icon/buttons/plus2.png</file>
+    <file>D-Day icon/buttons/remove.png</file>
+    <file>D-Day icon/buttons/save.png</file>
+  </qresource>
+  <qresource prefix="bgi">
+    <file>D-Day icon/background_imege/check mark.png</file>
+    <file>D-Day icon/background_imege/post-it4.png</file>
+    <file>D-Day icon/background_imege/post-it (1).png</file>
+    <file>D-Day icon/background_imege/post-it.png</file>
+    <file>D-Day icon/background_imege/post-it2.png</file>
+    <file>D-Day icon/background_imege/post-it3.png</file>
+  </qresource>
+</RCC>
